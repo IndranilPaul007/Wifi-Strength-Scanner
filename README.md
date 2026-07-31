@@ -4,6 +4,25 @@ A portable wireless environment analyzer built using the ESP8266 microcontroller
 
 This project utilizes the ESP8266 in a dual `WIFI_AP_STA` (Access Point + Station) mode. It broadcasts its own local network to host a tactical web dashboard while simultaneously using its antenna to sweep the 2.4 GHz spectrum. It detects surrounding Wi-Fi routers, mobile hotspots, and hidden networks, displaying their signal strength (RSSI) and channels in real-time.
 
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="Wifi_Strength_Scanner_Initial.jpeg" alt="Initial Radar Screen" width="300">
+        <br>
+        <p align="center"><i>Initial Screen</i></p>
+      </td>
+      <td>
+        <!-- REPLACE THE FILENAME BELOW with the name of your second image -->
+        <img src="REPLACE_WITH_YOUR_SECOND_IMAGE.jpeg" alt="Active Radar Sweep" width="300">
+        <br>
+        <p align="center"><i>Radar Sweep Results</i></p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+## Features
 ## Features
 * **Dual-Mode Networking:** Runs an Access Point and scans as a Station simultaneously.
 * **Tactical Dashboard:** A sleek, dark-mode web UI with dynamic signal strength bars.
