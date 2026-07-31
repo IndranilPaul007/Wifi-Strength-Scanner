@@ -14,7 +14,7 @@ This project utilizes the ESP8266 in a dual `WIFI_AP_STA` (Access Point + Statio
       </td>
       <td>
         <!-- REPLACE THE FILENAME BELOW with the name of your second image -->
-        <img src="REPLACE_WITH_YOUR_SECOND_IMAGE.jpeg" alt="Active Radar Sweep" width="300">
+        <img src="Wifi_Strength_Scanner.jpeg" alt="Active Radar Sweep" width="300">
         <br>
         <p align="center"><i>Radar Sweep Results</i></p>
       </td>
